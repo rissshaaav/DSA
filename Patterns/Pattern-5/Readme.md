@@ -1,5 +1,5 @@
-# Pattern-4: Right-Angled Number Pyramid – II
-**Problem Link:** [Right-Angled Number Pyramid – II](https://practice.geeksforgeeks.org/problems/triangle-number-1661428795/1)
+# Pattern-5: Inverted Right Pyramid
+**Problem Link:** [Square Pattern Problem](https://www.geeksforgeeks.org/problems/triangle-pattern/1)
 
 Geek is very fond of patterns. Once, his teacher gave him a pattern to solve. He gave Geek an integer n and asked him to build a pattern.  
 Help Geek to build a star pattern.
@@ -8,11 +8,11 @@ Help Geek to build a star pattern.
 Input: 5  
 Output:
 <p>
-  1<br/>
-  2 2<br/>
-  3 3 3<br/>
-  4 4 4 4<br/>
-  5 5 5 5 5<br/>
+  * * * * *<br/>
+  * * * *<br/>
+  * * *<br/>
+  * *<br/>
+  *<br/>
 </p>
 
 ### Your Task:
