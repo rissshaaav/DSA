@@ -7,11 +7,13 @@ Help Geek to build a star pattern.
 ### Example 1:
 Input: 5  
 Output:
-* * * * *
-* * * * *
-* * * * *
-* * * * *
-* * * * *
+<p>
+  * * * * *<br/>
+  * * * * *<br/>
+  * * * * *<br/>
+  * * * * *<br/>
+  * * * * *<br/>
+</p>
 
 ### Your Task:
 You don't need to input anything. Complete the function printSquare() which takes  an integer n  as the input parameter and print the pattern.
