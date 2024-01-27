@@ -8,10 +8,10 @@ Help Geek to build a star pattern.
 Input: 5  
 Output:
 <p>
-    *<br/>
-   ***<br/>
-  *****<br/>
- *******<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;*<br/>
+&nbsp;&nbsp;&nbsp;***<br/>
+&nbsp;&nbsp;*****<br/>
+&nbsp;*******<br/>
 *********<br/>
 </p>
 
