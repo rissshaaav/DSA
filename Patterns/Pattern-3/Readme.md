@@ -1,5 +1,5 @@
-# Pattern-2: Right-Angled Triangle Pattern
-**Problem Link:** [Square Pattern Problem](https://practice.geeksforgeeks.org/problems/right-triangle/1)
+# Pattern-3: Right-Angled Number Pyramid – I
+**Problem Link:** [Right-Angled Number Pyramid – I](https://practice.geeksforgeeks.org/problems/triangle-number/1)
 
 Geek is very fond of patterns. Once, his teacher gave him a pattern to solve. He gave Geek an integer n and asked him to build a pattern.  
 Help Geek to build a star pattern.
