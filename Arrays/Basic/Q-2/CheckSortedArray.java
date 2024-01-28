@@ -1,4 +1,4 @@
-public class CheckSortedArray {
+class CheckSortedArray {
     // Driver code
     public static void main(String[] args) {
         Solution solution = new Solution();
