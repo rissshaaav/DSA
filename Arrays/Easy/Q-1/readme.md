@@ -1,4 +1,4 @@
-#  Find Max Consecutive Ones
+#  Max Consecutive Ones
 **Problem Link:** [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
 Given a binary array nums, return the maximum number of consecutive 1's in the array.
